@@ -1,0 +1,6 @@
+BUILD CAR DRIFT
+
+-Nissan Silvia S15 with body kit Rocket Bunny, powered by 2JZ-GTE
+* R18/285/75
+* R15/285/65
+-Nissan Silvia S15 with body kit Vertex, poewered by SR20DET
