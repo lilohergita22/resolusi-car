@@ -8,3 +8,5 @@ Resolusi Car
 - Nissan Silvia S14
 - Nissan Silvia S13
 - Honda S2000
+- Honda Civic Estilo
+- Honda Civic Nouva
