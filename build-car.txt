@@ -4,6 +4,7 @@ BUILD CAR DRIFT
 * R18/285/75
 * R15/285/65
  ^ Velg Kiwami R18
+ ^ BBK Brembo 6 port
 -Nissan Silvia S15 with body kit Vertex, poewered by SR20DET
  ^ Suspension D-Max Japan
 -Niisan Silvia S14
