@@ -3,7 +3,9 @@ BUILD CAR DRIFT
 -Nissan Silvia S15 with body kit Rocket Bunny, powered by 2JZ-GTE
 * R18/285/75
 * R15/285/65
- ^ Instal Wisefab
- ^ Suspension BC Racing
+ ^ Velg Kiwami R18
+ ^ BBK Brembo 6 port
+-Nissan Silvia S15 with body kit Vertex, poewered by SR20DET
+ ^ Suspension D-Max Japan
 -Niisan Silvia S14
- ^ Instal intercooler
+-Nissan Cefiro A31
